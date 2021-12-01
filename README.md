@@ -3,4 +3,6 @@ This repository gives information about everything you need to build a programma
 
 ***Steps to recreate the device***
 
+![Circuit design of the bioGen EMS device](Circuit-design-images/Test_EMS_Circuit_Design.png)
+
 
